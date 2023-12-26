@@ -12,7 +12,10 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=deluxscript&show_icons=true&hide=contribs,issues&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deluxscript&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deluxscript&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📫 Let's Connect
 
